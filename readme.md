@@ -49,24 +49,12 @@
 
 💬 I'm an expert on **software engineering; both frontend and backend development.**
 
-<-- 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/) -->
-
-<-- 📄 Know about my experiences [through my CV](about/resume.md) -->
-
 🌱 I’m currently developing **personal website**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **I did boxing for two years but am still a great fan**
 
 ### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-<!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
-
-<!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
-
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
 
 ### Interested ?
 
@@ -111,7 +99,7 @@
 <!-- END: EXPERIENCE I -->
 
 #
-<!-- EXPERIENCE II -->
+<!-- EXPERIENCE II 
 <h2 align="left">Project Elewa</h2>
 
 <p align="right"><b>2022 - 2023</b></p>
@@ -123,7 +111,7 @@
   <!-- Add summary of your own contributions -->
   I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
 </p>
-<br/>
+<br/> -->
 
 <!-- Link in this table your actual contributions -->
 ### My contributions
