@@ -30,10 +30,10 @@
   <!-- Stack overflow 
   <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> -->
 
-  <!-- Other badges -->
+  <!-- Other badges 
   <!-- 
   <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
-</p>
+</p> -->
 
 <br/>
 
@@ -47,13 +47,13 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **software engineering; both frontend and backend development.**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+<-- 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/) -->
 
-📄 Know about my experiences [through my CV](about/resume.md)
+<-- 📄 Know about my experiences [through my CV](about/resume.md) -->
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently developing **personal website**.
 
 ⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
 
